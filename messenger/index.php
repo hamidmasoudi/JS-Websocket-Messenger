@@ -2,7 +2,7 @@
 <html lang="en-US" dir="ltr">
     <head>
         <meta charset="UTF-8">
-        <meta name="description" content="PHP Websocket Messenger">
+        <meta name="description" content="JS Websocket Messenger">
         <meta name="keywords" content="Messenger">
         <meta name="author" content="@masoudiofficial">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
